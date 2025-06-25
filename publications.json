@@ -1,52 +1,39 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "Diffusion Guided Language Modeling",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Justin Lovelace",
+        "Varsha Kishore",
+        "Yiwei Chen",
+        "Kilian Weinberger"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/1.jpg",
+      "venue": "Findings of ACL 2024",
+      "thumbnail": "images/thumbs/1.png",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://aclanthology.org/2024.findings-acl.887/"
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Retrospective Learning from Interactions",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Zizhao Chen",
+        "Mustafa Omer Gul",
+        "Yiwei Chen",
+        "Gloria Geng",
+        "Anne Wu",
+        "Yoav Artzi"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
-      "selected": 0,
+      "venue": "ACL 2025 (oral)",
+      "thumbnail": "images/thumbs/2.png",
+      "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://lil-lab.github.io/respect/",
+        "code": "https://github.com/lil-lab/respect/",
+        "demo": "https://huggingface.co/spaces/lillab-demos/respect"
       }
     }
   ]
